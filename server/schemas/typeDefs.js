@@ -22,7 +22,6 @@ input InputBook{
     description:String!
     title:String!
     image:String
-    link:String
 
 }
 type Auth{
